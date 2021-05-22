@@ -2,4 +2,4 @@
 
 A Java / C++ / Lua developer
 
-Have C++ Game engine not release name is pxEngine
+Have C++ Game engine not released name is pxEngine
